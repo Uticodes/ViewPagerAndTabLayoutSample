@@ -20,8 +20,8 @@
         <com.google.android.material.tabs.TabLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            app:tabTextColor="#fff"
-            android:background="@color/colorPrimary"
+            app:tabTextColor="@color/black"
+            android:background="@color/white"
             android:id="@+id/costomTabLayout"
             >
 
